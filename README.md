@@ -160,6 +160,10 @@
 | [synths video](https://synths.video/?ref=awe50meAI) |     Convert articles into video in 1-click  |
 | [invideo](https://invideo.io/?ref=awe50meAI) |     Create publish-worthy videos on day one  |
 | [GliaCloud](https://www.gliacloud.com/en/?ref=awe50meAI) |     Generate videos from news content, social posts, live sport events, and statistical data in minutes!  |
+## AI API gateways
+| Awesome | Description |
+| --- | --- |
+| [APIClaw](https://apiclaw.biz) | Flat-rate OpenAI-compatible AI API gateway with Claude, GPT, Kimi, Qwen, DeepSeek, and GLM access; plans from $19/month with 50 free trial requests. |
 | [synthesys](https://synthesys.io/ai-video/?ref=awe50meAI) |     Transform Your Text to a Realistic Virtual Video  |
 | [beey](https://www.beey.io/en/?ref=awe50meAI) |     Beey.io – Beey automatically converts your audio and video files to text.  |
 | [papercup](https://www.papercup.com/?ref=awe50meAI) |     AI Powered Dubbing  |
